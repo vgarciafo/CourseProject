@@ -2,7 +2,6 @@ Course Project - Getting and Cleaning Data
 ==================================================================
 Author: Victor Garcia
 Date: 2014/06/16
-==================================================================
 
 This is Courser Project consists of the following 5 steps:
 
